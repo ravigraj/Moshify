@@ -231,3 +231,10 @@ a {
 .input-group .btn {
   margin: 4px;
 }
+@media screen and (min-width: 1024px) {
+  .input {
+    font-size: 1.5rem;
+  }
+}
+
+/* Cards */
